@@ -96,3 +96,7 @@ You can:
 - **KivyMD**
 - **Pygame**
 - **Plyer** (for accelerometer access)
+  
+<img width="345" height="594" alt="SampleScreenshot" src="https://github.com/user-attachments/assets/17af1bf0-8db7-4e13-9954-2027104372e9" />
+
+
